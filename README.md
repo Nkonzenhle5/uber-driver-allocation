@@ -39,5 +39,10 @@ This ensures:
 
 ---
 
-## Project Structure
+## Project Structure and Insight
 
+data/ - input dataset  
+notebooks/ - data analysis and modeling  
+results/ - predictions and allocation outputs  
+
+Accurate demand prediction enables better operational decision-making by improving how limited resources are allocated across time.
